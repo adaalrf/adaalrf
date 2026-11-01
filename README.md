@@ -1,4 +1,4 @@
-# Martin Røed Flyum
+# Martin R. Flyum
 
 I build web applications with TypeScript, React and PostgreSQL, and work with the
 Linux systems that keep them running.
